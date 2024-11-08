@@ -39,6 +39,7 @@ type StringsType = {
   'samplePeriodStringProperty': LocalizedStringProperty;
   'kelvinStringProperty': LocalizedStringProperty;
   'degreesCelsiusStringProperty': LocalizedStringProperty;
+  'degreesFahrenheitStringProperty': LocalizedStringProperty;  // Add Fahrenheit string property
   'valueUnitsStringProperty': LocalizedStringProperty;
   'pressureStringProperty': LocalizedStringProperty;
   'kilopascalsStringProperty': LocalizedStringProperty;
@@ -61,6 +62,7 @@ type StringsType = {
   'resetDividerStringProperty': LocalizedStringProperty;
   'tAvgStringProperty': LocalizedStringProperty;
   'tAvgKStringProperty': LocalizedStringProperty;
+  'tAvgFStringProperty': LocalizedStringProperty; // Add average temperature in Fahrenheit
   'massAMUStringProperty': LocalizedStringProperty;
   'radiusPmStringProperty': LocalizedStringProperty;
   'initialTemperatureKStringProperty': LocalizedStringProperty;
