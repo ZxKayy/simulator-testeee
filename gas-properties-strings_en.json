@@ -68,6 +68,9 @@
   "degreesCelsius": {
     "value": "\u00B0C"
   },
+  "degreesFahrenheit": {
+    "value": "\u00B0F"
+  },
   "valueUnits": {
     "value": "{{value}} {{units}}"
   },
@@ -133,6 +136,9 @@
   },
   "tAvgK": {
     "value": "T<sub>avg</sub> = {{value}} K"
+  },
+  "tAvgF": {
+    "value": "T<sub>avg</sub> = {{value}} \u00B0F"
   },
   "massAMU": {
     "value": "Mass (AMU)"
